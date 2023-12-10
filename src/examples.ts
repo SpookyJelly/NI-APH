@@ -50,6 +50,11 @@ import { Mandelbrot } from './07-graphics/mandelbrot';
 import { Matrices } from './07-graphics/matrices';
 import { Lighting } from './07-graphics/lighting';
 import { Bots } from './08-ai/bots';
+import { NetworkAnim } from './09-network/network-anim';
+import { NetworkBasic } from './09-network/network-basic';
+import { NetworkCommands } from './09-network/network-commands';
+import { NetworkInteractive } from './09-network/network-interactive';
+import { NetworkSteering } from './09-network/network-steering';
 import { Pursue } from './08-ai/pursue';
 import { PixiHitTest } from './others/pixi-hittest';
 import { Dialog } from './others/dialog/dialog';
@@ -115,6 +120,11 @@ import { Tetris } from './game_tetris';
 	Mandelbrot,
 	Lighting,
 	Bots,
+	NetworkAnim,
+	NetworkBasic,
+	NetworkCommands,
+	NetworkInteractive,
+	NetworkSteering,
 	Pursue,
 	PixiHitTest,
 	Dialog,
